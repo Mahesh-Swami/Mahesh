@@ -1,4 +1,4 @@
--  Hi, I’m @maheshswami1994
+-  Hi, I’m Mahesh
 -  Electrical engineer
 -  Data science enthusiast
 -  I’m currently learning python for data science
