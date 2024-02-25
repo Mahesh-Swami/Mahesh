@@ -1,4 +1,4 @@
--  Hi, I’m Mahesh
+-  Hi, I’m Mahesh Swami
 -  Electrical engineer
 -  Data science enthusiast
 -  I’m currently learning python for data science
